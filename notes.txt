@@ -1,0 +1,26 @@
+
+React Library 
+
+What is react? 
+
+JavaScript library for building complex user interfaces
+
+JSX - combination of HTML and JavaScript code 
+
+<>  -> open tag 
+</> -> close tag
+
+
+<h1>
+</h1>
+
+<img/>  - self closing tag
+
+
+Components in react 
+
+
+Props - Properties
+
+
+conditional rendering 
